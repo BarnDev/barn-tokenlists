@@ -1,0 +1,37 @@
+{
+  "name": "BarnSale Polygon Default",
+  "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+  "keywords": ["polygon", "matic", "defi", "barn", "barn sale"],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x6116A2A8Ea71890Cf749823Ee9DEC991930a9eEa",
+      "decimals": 18,
+      "name": "Quail Chick",
+      "symbol": "CHK",
+      "logoURI": "https://raw.githubusercontent.com/BarnDev/barn-tokenlists/main/logos/polygon/0x6116A2A8Ea71890Cf749823Ee9DEC991930a9eEa/logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x4f219CfC1681c745D9558fd64d98373A21a246CA",
+      "decimals": 18,
+      "name": "Quail Egg",
+      "symbol": "KEGG",
+      "logoURI": "https://raw.githubusercontent.com/BarnDev/barn-tokenlists/main/logos/polygon/0x4f219CfC1681c745D9558fd64d98373A21a246CA/logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x252656AdC9E22C697Ce6c08cA9065FBEe5E394e7",
+      "decimals": 18,
+      "name": "KWIL Token",
+      "symbol": "KWIL",
+      "logoURI": "https://raw.githubusercontent.com/BarnDev/barn-tokenlists/main/logos/polygon/0x252656AdC9E22C697Ce6c08cA9065FBEe5E394e7/logo.png"
+    }
+  ],
+  "timestamp": "2021-11-02T00:00:00+00:00"
+}
